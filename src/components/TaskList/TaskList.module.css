@@ -1,0 +1,17 @@
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-left: 0;
+}
+
+.itemTask {
+  width: 30%;
+  margin-bottom: 15px;
+}
+
+.itemTask:not(:nth-child(3n-6)) {
+  margin-right: 5%;
+}

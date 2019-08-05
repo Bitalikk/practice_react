@@ -1,0 +1,22 @@
+.formContainer {
+  width: 300px;
+  margin: auto;
+  padding: 5px;
+}
+
+.inputContent {
+  display: block;
+  width: 100%;
+  line-height: 26px;
+  font-size: 16px;
+  border-radius: 3px;
+  text-indent: 5px;
+  border: 1px solid rgb(173, 166, 166);
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+.labelSelect {
+  display: block;
+  text-align: center;
+}
